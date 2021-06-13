@@ -15,7 +15,8 @@ Markdown | Less | Pretty
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
 
-Column 1 Header | Column 2 Header |
+singular | plural |
+--- | ---
 soy | somos 
 eres | sois 
 es | son 
