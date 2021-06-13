@@ -9,7 +9,7 @@
 
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
-  | singular | plural
+. | singular | plural
 --- | --- | ---
 first person | soy | somos 
 second person | sois 
