@@ -2,6 +2,11 @@
 
 ## Part 1
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ### Regular present
 - ar (o, as, a, amos, áis, an)
 - er (o, es, e, emos, éis, en)
