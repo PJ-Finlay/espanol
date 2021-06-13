@@ -9,29 +9,30 @@
 
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
-. | singular | plural
+  | singular | plural
 --- | --- | ---
 first person | soy | somos 
-second person | eres | sois 
-third person | es | son 
+second person | sois 
+third person | son 
 
 Estar - to be (temporary states and locations)
 singular | plural
---- | ---
-estoy | estamos
-estás | estáis
-está | están
+. | singular | plural
+--- | --- | ---
+first person | estoy | estamos
+second person | estás | estáis
+third person | está | están
 
 Ir - to go
-singular | plural
---- | ---
-voy | vamos
-vas | vais
-va | van
+. | singular | plural
+--- | --- | ---
+first person | voy | vamos
+second person | vas | vais
+third person | va | van
 
 Ver - to see
-singular | plural
---- | ---
-veo | vemos
-ves | veis
-ve | ven
+. | singular | plural
+--- | --- | ---
+first person | veo | vemos
+second person | ves | veis
+third person | ve | ven
