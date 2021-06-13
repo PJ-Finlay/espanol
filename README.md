@@ -2,11 +2,6 @@
 
 ## Part 1
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
 ### Regular present
 - ar (o, as, a, amos, áis, an)
 - er (o, es, e, emos, éis, en)
@@ -14,24 +9,27 @@ Markdown | Less | Pretty
 
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
-
-singular | plural |
+singular | plural
 --- | ---
 soy | somos 
 eres | sois 
 es | son 
 
 Estar - to be (temporary states and locations)
+singular | plural
+--- | ---
 estoy | estamos
 estás | estáis
 está | están
 
 Ir - to go
+singular | plural
 voy | vamos
 vas | vais
 va | van
 
 Ver - to see
+singular | plural
 veo | vemos
 ves | veis
 ve | ven
