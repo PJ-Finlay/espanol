@@ -9,9 +9,9 @@
 
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
-soy | somos
-eres | sois
-es | son
+soy | somos |
+eres | sois |
+es | son |
 
 Estar - to be (temporary states and locations)
 estoy | estamos
