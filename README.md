@@ -16,7 +16,6 @@ second person | sois
 third person | son 
 
 Estar - to be (temporary states and locations)
-singular | plural
 **Estar** | singular | plural
 --- | --- | ---
 first person | estoy | estamos
