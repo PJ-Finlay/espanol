@@ -12,8 +12,8 @@ Ser - to be (permanent or lasting attributes)
 **Ser** | singular | plural
 --- | --- | ---
 first person | soy | somos 
-second person | sois 
-third person | son 
+second person | eres | sois 
+third person | es | son 
 
 Estar - to be (temporary states and locations)
 **Estar** | singular | plural
