@@ -2,6 +2,8 @@
 
 ## Part 1
 
+Markdown | Less | Pretty
+--- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
@@ -12,10 +14,11 @@
 
 ### Irregular verbs
 Ser - to be (permanent or lasting attributes)
-| Column 1 Header | Column 2 Header |
-| soy | somos |
-| eres | sois |
-| es | son |
+
+Column 1 Header | Column 2 Header |
+soy | somos 
+eres | sois 
+es | son 
 
 Estar - to be (temporary states and locations)
 estoy | estamos
